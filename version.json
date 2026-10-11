@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/lakyariwrites-svg/matar-optimizer-updates/releases/download/v1.0.5/MatarOptimizer.exe",
-    "sha256":  "7f757e920a5a90a0d6152e76a7b7fd5d7b3beebb62ac966fda477fa99f4861ff",
-    "notes":  "X and Y sensitivity now shown as decimals",
-    "signature":  "Xv9HHYIsTF9S17CJ1Amyn11Jx7e1nbA9AoH8xs2iN5CXgjRXnBmW5V7oeXc1CGQ2C9t9tCD8rT8C1XMTFiBfrgEUQxtIGGtULy5aLr4invO9LghsgxNwt38NEOyD9wqfAhb2WBvuK2dTFe6vKvoFZCCBblK9APpr90VWsa6N1f298shBRmH5uyqDgK0no4cI6hv4PtTyScjIU3DZbkS/lCRlbTALHYc+Ntdvjq19rLPZpqOVIa5rliq4eFHvwZpRZA2LeWGXPf8UecP5kpd+eYibgd44qt4gph4wkb9ZPPwAnDMp5PWpNPpRdPufOzLjSjrb2lMKodzfSVYJORCsxg=="
+    "version":  "1.0.7",
+    "url":  "https://github.com/lakyariwrites-svg/matar-optimizer-updates/releases/download/v1.0.7/MatarOptimizer.exe",
+    "sha256":  "9adf7fd1c765320355fa91468019d052d8f974cede034b2cc1809d1b59e2231c",
+    "notes":  "Custom DPI: type any value",
+    "signature":  "Zg48dmaclIcZ9M94G8J6+4Esw/IicX3wbzzgGjwADHn9EQzKYR7Nc7ekGahtrHHVyFcAFu5Pf0Npr4vKdKtA0XccH0VA5zt25R8Ln5zwgg0jMSwKnn+dScyApvWSJuZLj+uW2/Dk2F/DAGeVdAqYtIp9BHW6GQn5PffyiBFigymTCJ5skWjqfHPwU+eJli7Ofytnb0eTS5Ve/ETNzX7F6xt9OK5zJOBNRi0KIy45+wPSpKj37PCJcvS5b5cxSgfi7TJ/jRSOjzxwz6RE3/610GRaQrUYkgzGjYYZeUfTX2nIQKhNYGHECEG8IDkbsUzJkHcjqFjCpRT6KXRMnuPs+A=="
 }
