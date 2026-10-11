@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4",
-    "url":  "https://github.com/lakyariwrites-svg/matar-optimizer-updates/releases/download/v1.0.4/MatarOptimizer.exe",
-    "sha256":  "e8ecbb349db7b8b42658fea640a2334d8c9bdb315b2b168536f1b2ec598e6b89",
-    "notes":  "Sensitivity page shows settings automatically",
-    "signature":  "GzwH1te/YNj3ZMlmMqF1pvjganbk9+gawZ1htv23qeOPeeR8EhyhsO7V9bCnQKWUXFrC9zWS/p5GqPH4z3XYWOOk8pK/9LzgH8N52aWpcmVXz9Gvc4wsS6hEF+0UVnQFxDO3kPOrlUtobaEidA0tbf8B4fz41tfJdy5UGbCawnA9zQToRj+f4GCNQ2938bHkL8bQlk95f04Zv/CVD2gijiF/8bh3FwzZbncnjfvXzQ5cRPfXYY79zWOi3o/TLYI7/E3F8sBgoGeC2GTdepkJNO4sInXhc+t7PLs+h1xUbImbZmcU0r9Aa+4UwmSTvyvxw9+S18EtYLjzZhmlPrkUrw=="
+    "version":  "1.0.5",
+    "url":  "https://github.com/lakyariwrites-svg/matar-optimizer-updates/releases/download/v1.0.5/MatarOptimizer.exe",
+    "sha256":  "7f757e920a5a90a0d6152e76a7b7fd5d7b3beebb62ac966fda477fa99f4861ff",
+    "notes":  "X and Y sensitivity now shown as decimals",
+    "signature":  "Xv9HHYIsTF9S17CJ1Amyn11Jx7e1nbA9AoH8xs2iN5CXgjRXnBmW5V7oeXc1CGQ2C9t9tCD8rT8C1XMTFiBfrgEUQxtIGGtULy5aLr4invO9LghsgxNwt38NEOyD9wqfAhb2WBvuK2dTFe6vKvoFZCCBblK9APpr90VWsa6N1f298shBRmH5uyqDgK0no4cI6hv4PtTyScjIU3DZbkS/lCRlbTALHYc+Ntdvjq19rLPZpqOVIa5rliq4eFHvwZpRZA2LeWGXPf8UecP5kpd+eYibgd44qt4gph4wkb9ZPPwAnDMp5PWpNPpRdPufOzLjSjrb2lMKodzfSVYJORCsxg=="
 }
