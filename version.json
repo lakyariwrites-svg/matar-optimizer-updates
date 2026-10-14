@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.18",
-    "url":  "https://github.com/lakyariwrites-svg/matar-optimizer-updates/releases/download/v1.0.18/MatarOptimizer.exe",
-    "sha256":  "551a989d47a243f84d3c83dd77f0705f1a50f40064e2424708101f46bbd193ea",
-    "notes":  "Emulator Tweaks: live FPS, overlay, network monitor and Lag Guard",
-    "signature":  "VZULv12cQGszTIx/z3uBEG+fJlf3A7nE8eOPgOsKtFl45FUypYJD/oVNf91r0NiE/9hU1T2KmJTtGjt5RnRdxsHNmXgOIufWxfV0p82e1cozedaTIO02vbXki/9f3zacNM5mWPNMtX2+qbWaV3hYOl/W0dqoGKy29TOqxRmK0IkwEw3ksDUYoMif8bOHusKDyFB0ENstQl/wExiMShBJG2K3v5EN7XkZQAAkEG8e1I58Ew/wBfytDKfYyQyNogyXKBkzg4g6W4ZDsKajFbxc24CLu30Fa0fwugBSWgD+biMW8Th7EH1atFCGyVAwCMiXYz6rRw5LThKNjUx9/AUoxw=="
+    "version":  "1.0.19",
+    "url":  "https://github.com/lakyariwrites-svg/matar-optimizer-updates/releases/download/v1.0.19/MatarOptimizer.exe",
+    "sha256":  "58c0b08cda734c97f4449451335a7389e7a5bd43dd5e57cde7af3bc4b26fa0f8",
+    "notes":  "Fixed live FPS detection and network tweak check, more reliable error handling",
+    "signature":  "J/ktPicK/3GER577K+Bglhmgf0mHtwRwpcONw/R0x3BrX7/DXH54YNucSMzCxZulgDrT4bL0zJyg1QY99QlwH7qS3LvPwZ3r5RAwKpKVoExkUmBEN2yhRGwJsyjhe6Nn8T4bOkFoPskFuwasn04WuBMoKp+5rxSlY2TmY9CagJfDUrma5K7nfZj6YpPiEbMGrvtvL2p3PNMOwY6hTnBSYksqM4TYbguhsiuStbj01OVCMtRk7NdO77HCdAqA8BLIzb/oj18vsBUcgYuX9I7i3QRlmUXXMDrW38TWi7ccAFhkCMH3dWJw03KOTcxD6qIGE91LwkFMw50wEpqsZo1XqA=="
 }
